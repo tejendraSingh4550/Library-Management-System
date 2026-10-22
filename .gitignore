@@ -1,0 +1,5 @@
+# Compiled Java files
+*.class
+
+# Local library data
+library_data.txt
